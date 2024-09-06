@@ -1,0 +1,39 @@
+.Presentation {
+  
+    background-color:#0F1624;
+    opacity: 80%;
+    border-radius: 30px;
+  
+    text-align: left;
+    margin-left: 15%;
+  }
+  
+  .Presentation h1 {
+    margin-left: 10px;
+    font-size: 45px;
+  }
+  
+  .Presentation h4 {
+    margin-left: 12px;
+    
+    font-size: 25px;
+  }
+  
+  .Presentation p	{
+    color: aliceblue;
+    margin-left: 10px;
+  } 
+  
+  .Presentation button{
+    background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+    color: #ffffff;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  .Presentation button:hover{
+    background: rgb(42, 78, 163);
+  transform: translateY(-7px);
+  transition-duration: 0.5s;
+  }
