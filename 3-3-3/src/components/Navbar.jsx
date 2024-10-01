@@ -6,7 +6,7 @@ const Navbar = () => (
     <header>
         <div className="Navbar">
             <ul>
-                <li className="color"><a href="#presetation">Apresentação</a></li>
+                <li className="color"><a href="#presetation">Início</a></li>
                 <li className="color"><a href="#Skills">Habilidades</a></li>
                 <li className="color"><a href="#projetos">Projetos</a></li>
             </ul>
